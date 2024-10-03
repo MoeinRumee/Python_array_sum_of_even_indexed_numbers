@@ -1,0 +1,1 @@
+# Python_array_sum_of_even_indexed_numbers
